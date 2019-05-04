@@ -1,0 +1,5 @@
+C:\Users\victo\Downloads\buildanintelligentbot\src\ChatBot
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ChatBot
+--content-root=C:\Users\victo\Downloads\buildanintelligentbot\src\ChatBot
+--file=

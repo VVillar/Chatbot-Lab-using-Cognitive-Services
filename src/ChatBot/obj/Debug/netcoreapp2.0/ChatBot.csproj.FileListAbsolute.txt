@@ -1,0 +1,16 @@
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\bin\Debug\netcoreapp2.0\wwwroot\images\carbonara.jpg
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\bin\Debug\netcoreapp2.0\wwwroot\images\lasagna.jpg
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\bin\Debug\netcoreapp2.0\wwwroot\images\pizza.jpg
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\bin\Debug\netcoreapp2.0\EchoBot.bot
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.deps.json
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.json
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.runtimeconfig.dev.json
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csprojAssemblyReference.cache
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.AssemblyInfo.cs
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\bin\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.dll
+C:\Users\victo\Downloads\BuildAnIntelligentBot\src\ChatBot\obj\Debug\netcoreapp2.0\ChatBot.pdb
+C:\Users\victo\Downloads\buildanintelligentbot\src\ChatBot\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
